@@ -20,7 +20,7 @@
 
 <rfc ipr="trust200902" docName="draft-iab-rfc-framework-06" category="info">
 
-<?rfc toc="yes"?>
+<?rfc toc="yes"?> 
 
   <front>
     <title abbrev="RFC Format Framework">RFC Format Framework</title>
